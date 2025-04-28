@@ -183,7 +183,7 @@ If this option is empty or unset, the "parallelism" option will be used (instead
 
   *Example*: Suppose your starting page "A", links to the following web pages, and you want to run with a depth of 2.
 
-![Page Traversal](PageTraversal.png)
+<img src="PageTraversal.png" width="600" height="498">
 
 In This Example, Your Crawler Would Only Visit Pages A, B, C, and D
 
