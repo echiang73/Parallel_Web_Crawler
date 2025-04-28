@@ -47,7 +47,8 @@ com.udacity.webcrawler.ParallelWebCrawler#crawl took 0m 5s 207ms
 com.udacity.webcrawler.parser.PageParserImpl#parse took 0m 18s 163ms
 ```
 
-See the preview: 
+See the preview:
+
 ![Parallel Webcrawler](starter/webcrawler/src/assets/webcrawlerPreview.gif)
 
 
