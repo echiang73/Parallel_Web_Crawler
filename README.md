@@ -3,7 +3,8 @@
 This is Project #2 for the Udacity's [Full Stack Java Developer Nanodegree Program](https://www.udacity.com/course/java-programming-nanodegree--nd079), sponsored by Cognizant.
 The goal was to convert a single-threaded webcrawler and upgrade it with multi-core architectures to increase the crawler throughput as measured by the Performance Profiler. This project demonstrate the use of advanced Java programming techniques including but not limited to Files I/O, Design Patterns, Reflection, and Concurrency.
 
-Further below are the requirements and instructions for running the project. However, here is the shorten version of how to use the parallel webcrawler to use on any website and view the top five words found on that particular website and its links, as well as run the performance profiler to compare the original single-threaded webcrawler to the updated multi-threaded webcrawler.
+## Abbreviated Documentation
+Further below are the requirements and detailed instructions for running the project. However, here is the shorten version on how to use the parallel webcrawler for use on any website of your choice. This will allow you to view the top five words found on that particular website and its links, as well as run the performance profiler to compare the original single-threaded webcrawler to the updated multi-threaded webcrawler.
 
 1. Open the [sample_config.json file](/src/main/config/sample_config.json) and change the `startPages` from www.udacity.com to any particular website, i.e. https://www.cnn.com/.
 
@@ -54,6 +55,7 @@ See the preview:
 
 
 ---
+## Detailed Documentation
 
 <img src="UdaciSearch.png" width="275" height="232">
 
